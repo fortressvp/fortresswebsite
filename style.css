@@ -1,3 +1,16 @@
+body,
+button,
+input,
+select,
+textarea {
+  font-family: 'Roboto', sans-serif;
+}
+
 .is-margin-auto {
   margin: auto;
+}
+
+.title,
+.subtitle {
+  font-family: 'Lora', serif;
 }
