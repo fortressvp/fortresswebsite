@@ -13,4 +13,5 @@ textarea {
 .title,
 .subtitle {
   font-family: 'Lora', serif;
+  font-weight: normal;
 }
